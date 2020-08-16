@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+h1 {
+  font-family: "salsa", cursive;
+  font-size: 71px;
+  color: #ebf3f3;
+}
 
 .App-logo {
   height: 40vmin;
