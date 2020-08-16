@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/people-rolodex/static/css/main.04217844.chunk.css",
+    "main.js": "/people-rolodex/static/js/main.6e14d0ad.chunk.js",
+    "main.js.map": "/people-rolodex/static/js/main.6e14d0ad.chunk.js.map",
+    "runtime-main.js": "/people-rolodex/static/js/runtime-main.8c41662b.js",
+    "runtime-main.js.map": "/people-rolodex/static/js/runtime-main.8c41662b.js.map",
+    "static/js/2.33b4488b.chunk.js": "/people-rolodex/static/js/2.33b4488b.chunk.js",
+    "static/js/2.33b4488b.chunk.js.map": "/people-rolodex/static/js/2.33b4488b.chunk.js.map",
+    "index.html": "/people-rolodex/index.html",
+    "precache-manifest.323b5a6559254b7cbe7943f4e3ad9717.js": "/people-rolodex/precache-manifest.323b5a6559254b7cbe7943f4e3ad9717.js",
+    "service-worker.js": "/people-rolodex/service-worker.js",
+    "static/css/main.04217844.chunk.css.map": "/people-rolodex/static/css/main.04217844.chunk.css.map",
+    "static/js/2.33b4488b.chunk.js.LICENSE.txt": "/people-rolodex/static/js/2.33b4488b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c41662b.js",
+    "static/js/2.33b4488b.chunk.js",
+    "static/css/main.04217844.chunk.css",
+    "static/js/main.6e14d0ad.chunk.js"
+  ]
+}
